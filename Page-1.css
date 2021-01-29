@@ -893,7 +893,7 @@
 
 .u-section-5 .u-text-3 {
   font-size: 1.125rem;
-  margin: 0;
+  margin: 0 2px 0 0;
 }
 
 .u-section-5 .u-layout-cell-3 {
@@ -922,17 +922,17 @@
 
 .u-section-5 .u-text-5 {
   font-size: 1.125rem;
-  margin: 0 84px 0 auto;
+  margin: 0 84px 0 72px;
 }
 
 .u-section-5 .u-text-6 {
   font-size: 1.125rem;
-  margin: 0 84px 0 auto;
+  margin: 0 84px 0 72px;
 }
 
 .u-section-5 .u-text-7 {
   font-size: 1.125rem;
-  margin: 0 84px 0 auto;
+  margin: 0 84px 0 72px;
 }
 
 .u-section-5 .u-layout-cell-4 {
@@ -1091,15 +1091,22 @@
     width: auto;
   }
 
+  .u-section-5 .u-text-3 {
+    margin-right: 0;
+  }
+
   .u-section-5 .u-text-5 {
+    margin-left: 0;
     margin-right: 104px;
   }
 
   .u-section-5 .u-text-6 {
+    margin-left: 0;
     margin-right: 104px;
   }
 
   .u-section-5 .u-text-7 {
+    margin-left: 0;
     margin-right: 104px;
   }
 
